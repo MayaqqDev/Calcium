@@ -9,6 +9,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Maximusbarcz/Calcium/total?label=downloads&style=for-the-badge)
 ## `Information`
 
+**DO NOT TAKE SERIOUSLY**
+
 Best Minecraft optimization mod that optimizes your game by rewriting the entire block rendering engine.
 
 ## `Community`
